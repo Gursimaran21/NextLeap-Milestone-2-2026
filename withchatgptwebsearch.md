@@ -470,3 +470,43 @@ Instead:
 **"This looks like a long question. Want to say it instead?"**
 
 That is **contextual activation**, not generic promotion.
+
+**16. The KPI I would actually optimize**
+
+Don't make:
+
+**Voice button clicks**
+
+your North Star.
+
+It can create vanity growth.
+
+Instead:
+
+**Weekly Successful Voice Users (WSVU)**
+
+Users who:
+
+**1.** initiate Voice
+
+**2.** complete a meaningful interaction
+
+**3.** receive an acceptable transcription/response
+
+**4.** return to Voice within 7 days
+
+Then track:
+
+**Voice Trial → Successful Session → Repeat Session → Weekly Voice Habit**
+
+**Bottom line**
+
+The India Voice problem can be summarized in one sentence:
+
+**"Voice isn't losing because Indians don't want to talk; it's losing because typing currently feels more private, controllable, reliable and predictable."**
+
+And there is a second, deeper opportunity:
+
+**India could actually be one of the highest-potential Voice markets—but only if ChatGPT treats Indian multilingual, code-switched, noisy, shared-space usage as the default environment rather than an edge case.**
+
+That conclusion is consistent with both India-specific voice-assistant research and recent ChatGPT user research, while OpenAI's own documentation confirms several of the underlying technical friction points.
