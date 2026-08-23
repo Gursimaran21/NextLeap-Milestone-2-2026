@@ -179,3 +179,15 @@ And break that into three dimensions:
 That gives you a very clean path into the next PM step:
 
 **Hypotheses → User interviews/survey → Prioritization → Root cause → Product solution → KPI.**
+
+## References
+
+1. [Using study mode in ChatGPT](https://help.openai.com/en/articles/11780217-using-study-mode-in-chatgpt?utm_source=chatgpt.com).
+
+2. [Why AI voice agents break in India](https://www.hindustantimes.com/ht-insight/future-tech/why-ai-voice-agents-break-in-india-101785150773089.html?utm_source=chatgpt.com).
+
+3. [Signals individual data](https://openai.com/signals/data/?utm_source=chatgpt.com).
+
+4. [The Efficacy of ChatGPT “Voice” Mode in AI-Assisted Language Learning: EFL Students’ Viewpoints](https://rsisinternational.org/journals/ijriss/view/the-efficacy-of-chatgpt-voice-mode-in-ai-assisted-language-learning-efl-students-viewpoints).
+   
+5. [ChatGPT — ಬಿಡುಗಡೆ ಟಿಪ್ಪಣಿಗಳು](https://help.openai.com/kn-in/articles/6825453-chatgpt-%E0%B2%AC%E0%B2%A1%E0%B2%97%E0%B2%A1-%E0%B2%9F%E0%B2%AA%E0%B2%AA%E0%B2%A3%E0%B2%97%E0%B2%B3?utm_source=chatgpt.com).
