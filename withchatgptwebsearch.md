@@ -510,3 +510,13 @@ And there is a second, deeper opportunity:
 **India could actually be one of the highest-potential Voice markets—but only if ChatGPT treats Indian multilingual, code-switched, noisy, shared-space usage as the default environment rather than an edge case.**
 
 That conclusion is consistent with both India-specific voice-assistant research and recent ChatGPT user research, while OpenAI's own documentation confirms several of the underlying technical friction points.
+
+## References
+
+1. [ChatGPT Voice Guide](https://help.openai.com/en/articles/20001274-chatgpt-voice?utm_source=chatgpt.com).
+
+2. [Alexa, Siri, and Google Guide](https://journals.aom.org/doi/10.5465/AMPROC.2025.12755abstract?utm_source=chatgpt.com).
+
+3. [AI Voice Agent Guide](https://www.hindustantimes.com/ht-insight/future-tech/why-ai-voice-agents-break-in-india-101785150773089.html?utm_source=chatgpt.com).
+
+4. [Adoption of AI-Based Voice Assistants Guide](https://www.tandfonline.com/doi/full/10.1080/08874417.2024.2312858?utm_source=chatgpt.com#abstract).
