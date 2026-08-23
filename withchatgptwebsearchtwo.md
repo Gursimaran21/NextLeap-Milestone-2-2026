@@ -211,3 +211,15 @@ That points to **three initial Voice beachheads:**
 Those three combine **large potential user bases + frequent mobile usage + a genuine reason to speak rather than type.**
 
 This also aligns well with your earlier Voice-adoption hypothesis: the opportunity isn't simply to make more people try Voice; it's to create **repeatable moments where Voice is clearly superior to typing.**
+
+## References
+
+1. [OpenAI data shows India among the most advanced ChatGPT users globally](https://indianexpress.com/article/technology/artificial-intelligence/openai-data-shows-india-among-the-most-advanced-chatgpt-users-globally-10542613/?utm_source=chatgpt.com).
+
+2. [Introducing the OpenAI Learning Accelerator in India](https://openai.com/global-affairs/learning-accelerator/?utm_source=chatgpt.com).
+
+3. [How India uses ChatGPT: Coding, learning and work lead the way, reveals OpenAI](https://www.moneycontrol.com/technology/how-india-uses-chatgpt-coding-learning-and-work-lead-the-way-reveals-openai-article-13837648.html/amp?utm_source=chatgpt.com).
+
+4. [How people are using ChatGPT](https://openai.com/index/how-people-are-using-chatgpt/?utm_source=chatgpt.com).
+   
+5. [India moves beyond casual AI chats: From homework to coding, here's how users are putting chatbots to work](https://www.moneycontrol.com/technology/india-moves-beyond-casual-ai-chats-from-homework-to-coding-here-s-how-users-are-putting-chatbots-to-work-article-13988750.html?utm_source=chatgpt.com).
