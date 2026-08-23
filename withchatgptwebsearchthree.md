@@ -140,3 +140,15 @@ Then optimize the experience around:
 **7. Privacy in shared environments**
 
 This is particularly compelling because OpenAI is already investing heavily in India's education ecosystem and has explicitly said Study Mode was inspired by feedback from Indian learners.
+
+## References
+
+1. [Use ChatGPT Voice to Think Through Academic Work](https://academy.openai.com/public/clubs/higher-education-05x4z/blogs/use-chatgpt-voice-to-think-through-academic-work-2026-05-19?utm_source=chatgpt.com).
+
+2. [ChatGPT voice conversations are exploding in India: 10 weird, useful and viral use cases](https://www.livemint.com/technology/chatgpt-voice-conversations-are-exploding-in-india-10-weird-useful-and-viral-use-cases-11779177341905.html?utm_source=chatgpt.com).
+
+3. [‘We want to empower parents’: OpenAI on safety, privacy and ChatGPT for Teens](https://indianexpress.com/article/technology/artificial-intelligence/chatgpt-for-teens-india-openai-safety-privacy-10839489/?utm_source=chatgpt.com).
+
+4. [Developing Voice with ChatGPT](https://edunewsletter.openai.com/p/developing-voice-with-chatgpt?utm_source=chatgpt.com).
+   
+5. [From asking to doing: How the world is putting ChatGPT to work](https://openai.com/index/how-the-world-is-putting-chatgpt-to-work/?utm_source=chatgpt.com).
