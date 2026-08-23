@@ -499,7 +499,7 @@ Then track:
 
 **Voice Trial → Successful Session → Repeat Session → Weekly Voice Habit**
 
-**Bottom line**
+**17. Bottom line**
 
 The India Voice problem can be summarized in one sentence:
 
