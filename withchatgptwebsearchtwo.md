@@ -203,7 +203,9 @@ Ask:
 That points to **three initial Voice beachheads:**
 
 **1. Students → conversational tutoring**
+
 **2. Regional-language users → low-friction multilingual interaction**
+
 **3. Job seekers → interview + English practice**
 
 Those three combine **large potential user bases + frequent mobile usage + a genuine reason to speak rather than type.**
