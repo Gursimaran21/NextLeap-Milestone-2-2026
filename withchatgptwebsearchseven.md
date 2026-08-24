@@ -200,3 +200,5 @@ because it tells the product team **what must change in the user experience** to
 <img width="617" height="510" alt="withchatgptwebsearchseven" src="https://github.com/user-attachments/assets/a0745ea9-fb04-4124-90cc-f45ef68045cc" />
 
 This framing also aligns with OpenAI's current India education strategy and its investment in interactive learning experiences such as Study Mode.
+
+## Go back to [README](README.md) **or** **Click on** **[Task 8](withchatgptwebsearcheight.md)**
