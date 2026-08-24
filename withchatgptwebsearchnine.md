@@ -1,1 +1,5 @@
+## Milestone 2 - ChatGPT : Why Users are Not using Voice Input on ChatGPT Mobile, especially in India
 
+### Solution to ChatGPT Problem Framing, Ideation & Validation + Metrics: Why Users are Not using Voice Input on ChatGPT Mobile, especially in India
+
+#### Task 9 - Insights from user research (quantitative and qualitative) — pain points, blockers
