@@ -223,3 +223,5 @@ This also aligns well with your earlier Voice-adoption hypothesis: the opportuni
 4. [How people are using ChatGPT](https://openai.com/index/how-people-are-using-chatgpt/?utm_source=chatgpt.com).
    
 5. [India moves beyond casual AI chats: From homework to coding, here's how users are putting chatbots to work](https://www.moneycontrol.com/technology/india-moves-beyond-casual-ai-chats-from-homework-to-coding-here-s-how-users-are-putting-chatbots-to-work-article-13988750.html?utm_source=chatgpt.com).
+
+## Go back to [README](README.md) **or** **Click on** **[Task 3](withchatgptwebsearchthree.md)**
