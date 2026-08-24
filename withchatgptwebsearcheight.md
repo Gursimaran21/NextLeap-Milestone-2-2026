@@ -102,3 +102,34 @@ The bigger chain is:
 <img width="297" height="313" alt="withchatgptwebsearcheight" src="https://github.com/user-attachments/assets/78bf338a-077a-44d6-9e7d-16011ef0e3c3" />
 
 This is particularly strategically relevant because OpenAI currently describes India as having **more than 100 million weekly ChatGPT users**, spanning students, teachers, developers and entrepreneurs.
+
+### Why not choose "regional-language users" as the primary segment?
+
+This is an important distinction.
+
+**Regional language should be a dimension of the student segment, not necessarily the segment itself.**
+
+For example:
+
+- Tamil-speaking student
+- Hindi-speaking student
+- Hinglish-speaking student
+- Telugu-speaking student
+
+That allows us to test whether language is a **root cause of Voice abandonment** without losing the much larger learning use case.
+
+It also fits the India-specific research problem: multilingual and code-switched speech can create recognition challenges, but language alone doesn't explain why every user avoids Voice.
+
+### Chosen segment statement
+
+**Mobile-first Indian students aged 18–24 who frequently use ChatGPT for learning but primarily rely on typing instead of Voice.**
+
+**Why this segment?**
+
+**They represent India's largest ChatGPT age cohort, India has the world's largest student population on ChatGPT, and students have frequent, repeatable learning tasks where conversational Voice can provide meaningful advantages over typing. Therefore, improving Voice adoption in this segment offers the strongest combination of reach, engagement potential, and product–market fit.**
+
+### One-line answer for your PM presentation
+
+**“We chose Indian students aged 18–24 because they generate nearly half of India's ChatGPT messages, India is ChatGPT's largest student market, and learning creates high-frequency Voice use cases such as tutoring, doubt-solving, language practice and interactive revision.”**
+
+**Important research caveat:** I would avoid putting claims like “students are 45% of all Indian ChatGPT users” or “Voice adoption is <10%” in your final deck unless you can trace them to a reliable underlying dataset. OpenAI's published data supports the **18–24 usage share**, but the Voice-adoption percentages currently circulating online mostly come from small, independent PM/student research projects.
