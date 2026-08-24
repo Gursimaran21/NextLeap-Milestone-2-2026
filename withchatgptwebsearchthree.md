@@ -152,3 +152,5 @@ This is particularly compelling because OpenAI is already investing heavily in I
 4. [Developing Voice with ChatGPT](https://edunewsletter.openai.com/p/developing-voice-with-chatgpt?utm_source=chatgpt.com).
    
 5. [From asking to doing: How the world is putting ChatGPT to work](https://openai.com/index/how-the-world-is-putting-chatgpt-to-work/?utm_source=chatgpt.com).
+
+## Go back to [README](README.md) **or** **Click on** **[Task 4](withchatgptwebsearchfour.md)**
