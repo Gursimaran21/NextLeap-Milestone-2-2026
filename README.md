@@ -31,3 +31,5 @@ Slide 1: Chosen segment and justification of impact
 Slide 2: Insights from user research (quantitative and qualitative) - pain points, blockers
 
 Slide 3: Problem Framing Canvas
+
+## **Click on** **[Task 1](withchatgptwebsearchone.md)**
