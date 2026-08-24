@@ -239,3 +239,5 @@ The most important metric is therefore likely **repeat Voice usage**, rather tha
 “**Voice hasn't earned enough trust.**”
 
 That is the **core problem** I'd carry forward into the next PM stage: **solution ideation and prioritization**.
+
+## Go back to [README](README.md)
